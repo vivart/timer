@@ -9,5 +9,14 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Timer</string>
+    <string name="title">Count Down Timer</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="adjust">Adjust</string>
+    <string name="select">Select</string>
+    <string name="channel_name">Count Down Timer</string>
+    <string name="channel_description">Count Down Timer</string>
+    <string name="delete">Delete</string>
+    <string name="times_up">Time\'s up!</string>
 </resources>
